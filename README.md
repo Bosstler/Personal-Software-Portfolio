@@ -2,9 +2,7 @@
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-This Software is a simple program that prints "Hello World" when an user runs it
-
-This software was created to be successful in creating a Github repository
+This Software is a compilation of some noteworthy college projects that showcase what I have learned as a CS student
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
